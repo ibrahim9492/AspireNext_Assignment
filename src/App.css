@@ -1,0 +1,4 @@
+/* src/App.css */
+main { min-height: calc(100vh - 72px); padding-bottom: 40px; }
+.no-data { color: var(--muted); padding: 12px; text-align:center; }
+.err { color: #ff6b6b; padding:12px; }

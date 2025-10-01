@@ -1,0 +1,5 @@
+.auth-wrap { max-width:480px; margin:2rem auto; padding:0 1rem; }
+.auth-form { display:flex; flex-direction:column; gap:10px; }
+.auth-form input { padding:10px; border:1px solid #ddd; border-radius:6px; }
+.auth-form button { padding:10px; border-radius:6px; background:#0d6efd; color:#fff; border:none; cursor:pointer; }
+.err { color:#c23; font-weight:600; margin-bottom:8px; }
