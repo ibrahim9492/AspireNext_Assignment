@@ -2,6 +2,18 @@
 
 A full-stack web application designed to help students discover, filter, and review colleges. This dashboard provides a clean, responsive interface for users to search for institutions based on various criteria, save their favorites, and read community-sourced reviews.
 
+## 🚀 Live Demo
+
+Frontend (Deployed on Vercel): [https://aspire-next-assignment.vercel.app/]
+
+## 🎬 Demo Video
+
+A short video walkthrough of the application's features can be found here:
+
+Watch the Demo Video: [https://www.loom.com/share/87e756ce7fe04c9b844d21159711ed96?sid=85e73423-25e8-4b25-b32f-839fdf3c9704]
+
+Project Explanation Video: [https://www.loom.com/share/9f3ccaa31fed47a6b326a84b9e3b37b2?sid=714d586f-079f-4123-8f4d-290acf3e5978]
+
 ## ✨ Features
 
 Dynamic Search: Instantly search for colleges by name.
